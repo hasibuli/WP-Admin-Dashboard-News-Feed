@@ -25,11 +25,6 @@ The plugin is designed for wordpress theme developer or seller.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Click on the new menu item ""Settings" and set your news feed.
 
-== Frequently asked questions ==
-
-== Screenshots ==
-1. ADNF Settings
-2. ADNF Feed Display
 
 
 == Changelog ==
